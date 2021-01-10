@@ -1,7 +1,7 @@
 """
 Supervised Models
 """
-# Author: Shankar Rao Pandala <shankar.pandala@live.com>
+
 
 import numpy as np
 import pandas as pd
